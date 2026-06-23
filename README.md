@@ -10,7 +10,7 @@
 
 ### Principais Projetos
 
-- **[Portfolio QA - OrangeHRM](https://github.com/karolinyoliveira1-lab/portfolio-qa-test-cases-orangehrm)**  
+- **[Portfolio QA - OrangeHRM](https://github.com/karolinyoliveira1-lab/portfolio-qa-orangehrm-login)**  
   Test cases manuais completos do fluxo de Login + evidências de execução
 
 ### Tecnologias e Ferramentas
