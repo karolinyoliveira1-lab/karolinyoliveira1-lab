@@ -1,6 +1,6 @@
 # Olá, eu sou a Karoliny! 👋
 
-**QA Junior em formação**, estudando testes de software e buscando minha primeira oportunidade na área de Quality Assurance.
+**Estudante de Quality Assurance** em busca da primeira oportunidade como QA Junior.
 
 ### Sobre mim
 - 🎯 **Foco atual**: Testes Manuais (funcionais, regressão, boundary e casos de teste)
